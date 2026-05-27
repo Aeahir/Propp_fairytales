@@ -31,6 +31,7 @@ Tool for rewriting news or any other texts into fairytales with plots based on P
 Локальная библиотека: Система сохранения получившихся сказок в JSON-архив с возможностью быстрого поиска и восстановления сессий.
 
 🛠 Установка и требования
+
 Для работы приложения необходим установленный интерпретатор Python версии 3.10 или выше.
 
 Клонируйте репозиторий:
@@ -39,17 +40,21 @@ code
 Bash
 git clone https://github.com/Aearhir/Tales_from_news.git
 cd Tales_from_news
+
 Установите зависимости:
 
 code
 Bash
 pip install openai customtkinter
+
 Запуск приложения:
 
 code
 Bash
 python app_propp_fairytales.py
+
 🚀 Настройка и запуск генерации
+
 В боковой панели укажите параметры вашего API-провайдера:
 
 API Base URL: Адрес вашего эндпоинта (например, https://api.openai.com/v1 для OpenAI или https://api.deepseek.com для DeepSeek) [4].
