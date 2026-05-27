@@ -37,7 +37,7 @@ Tool for rewriting news or any other texts into fairytales with plots based on P
 
 code
 Bash
-git clone https://github.com/ВАШ_НИКНЕЙМ/Tales_from_news.git
+git clone https://github.com/Aearhir/Tales_from_news.git
 cd Tales_from_news
 Установите зависимости:
 
