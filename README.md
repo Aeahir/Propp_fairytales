@@ -43,9 +43,7 @@ cd Tales_from_news
 
 code
 Bash
-pip install -r requirements.txt
-(Содержимое файла requirements.txt: customtkinter, openai)
-
+pip install openai customtkinter
 Запуск приложения:
 
 code
